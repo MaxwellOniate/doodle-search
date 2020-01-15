@@ -169,5 +169,5 @@ function followLinks($url)
   }
 }
 
-$startURL = "https://en.wikipedia.org/wiki/Cat";
+$startURL = "https://pixabay.com/images/search/cat/";
 followLinks($startURL);
