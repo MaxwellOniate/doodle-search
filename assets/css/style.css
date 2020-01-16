@@ -104,7 +104,6 @@ body {
 }
 
 .header-content .search-bar-container {
-  border: none;
   height: 44px;
   border-radius: 2px;
   background: #fff;
@@ -118,6 +117,7 @@ body {
 }
 
 .header-content .search-bar-container .search-box {
+  border: none;
   flex: 1;
   background: transparent;
   padding: 12px;
