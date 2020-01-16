@@ -48,7 +48,7 @@ body {
 }
 
 #main .search-container .search-box {
-  border: none;
+  border: 1px solid #ccc;
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16),
     0 0 0 1px rgba(0, 0, 0, 0.08);
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
@@ -63,7 +63,7 @@ body {
 
 .search-container .search-btn {
   color: #757575;
-  background: #f5f5f5;
+  background: #ddd;
   border: none;
   height: 36px;
   width: 125px;
@@ -117,7 +117,7 @@ body {
 
 .header-content .search-bar-container .search-box {
   flex: 1;
-  border: none;
+  border: 1px solid #ccc;
   background: transparent;
   padding: 12px;
   font-size: 1rem;
